@@ -17,4 +17,6 @@ You can [sign in](https://whylabs.ai/free) and grab a free account to obtain tho
 * Create an API token from the "Access Tokens" tab
 * Copy your org ID from the same "Access Tokens" tab
 
-You can see the video for the first notebook at [46:00 min](https://www.youtube.com/live/DLJ8m3wMJrs?si=-GQFX_xd6OZRevkh&t=2713) where the setup of your dashbaord where you will send LangKit profiles.
+You can see the video for the first notebook at [46:00 min](https://www.youtube.com/live/DLJ8m3wMJrs?si=-GQFX_xd6OZRevkh&t=2713) where the setup of your dashboard where you will send LangKit profiles.
+
+As part of exploring LangKit capabilities, [the next issue was raised](https://github.com/whylabs/langkit/issues/230).
